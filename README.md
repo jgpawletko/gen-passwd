@@ -10,3 +10,8 @@ but I hacked this together for fun
 $ gen-passwd
 womankind hereditarianism internationally
 ```
+and if you're not happy with the result, just run the script again...
+```
+$ gen-passwd
+azocyclic Buddha ghostship
+```
