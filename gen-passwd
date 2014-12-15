@@ -1,9 +1,5 @@
 #!/bin/bash
  
-# Following the wisdom of XKCD: http://xkcd.com/936/
-# there are probably others out there that do this already
-# but this was just a quick hack...
- 
 WORDS_IN_PW=3
 WORDS_FILE=/usr/share/dict/words
 max_line=`cat $WORDS_FILE | wc -l`
